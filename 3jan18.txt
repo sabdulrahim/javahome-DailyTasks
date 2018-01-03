@@ -1,0 +1,10 @@
+3 jan
+-----
+
+Reserved instances in EMR n S3
+s3 data transfer encryption 
+s3 endpoints
+EMR advance options
+transfering data from s3 to redshift
+
+
